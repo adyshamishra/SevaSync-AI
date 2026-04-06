@@ -6,7 +6,7 @@
 ---
 
 ## 👥 The Team
-* **Adyasha Mishra** (Project Lead & Full-Stack Developer)
+* **Adyasha Mishra** (Project Lead & Full-Stack Developer & Backend)
 * **Satyabrata Mahakhud** (Project Backend & AI Logic Developer)
 * **Ritupurna** (Frontend Developer & Intergration Helper)
 * **Niharika Tripathy** (Frontend Developer & Deployment Helper)
